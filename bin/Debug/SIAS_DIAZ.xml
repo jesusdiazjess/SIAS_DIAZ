@@ -1,0 +1,144 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SIAS_DIAZ
+</name>
+</assembly>
+<members>
+<member name="P:SIAS_DIAZ.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources._1200px_Allan_Jay_Quesada___Tumauini_Cathedral___afternoon_exterior_DSC_0249">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources._1725491_line_blue_faded_background_backgrounds_abstract">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources._346310628_1884907185211707_920267700996130325_n_modified_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources._382e5f_674a07c62ca046d3a86a655fa0e262c2_mv2_modified">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources._382e5f_674a07c62ca046d3a86a655fa0e262c2_mv2_modified1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources.FB_IMG_1688098230759_modified">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources.hgbc_sias">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources.HGBC_small">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources.IMG_20230630_133108">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources.medical_logo_1024x1024__1__modified">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources.Screenshot_20230630_124928">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources.sharpen_edition">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SIAS_DIAZ.My.Resources.Resources.sharpen_edition1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SIAS_DIAZ.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSet.studentinfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSet.userpasswordDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSet.studentinfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSet.userpasswordRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSet.studentinfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSet.userpasswordRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.studentinfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.userpasswordTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SIAS_DIAZ.SIAS_DIAZDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SIAS_DIAZ.SIAS_DIAZDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SIAS_DIAZ.SIAS_DIAZDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.TableAdapterManager.UpdateAll(SIAS_DIAZ.SIAS_DIAZDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SIAS_DIAZ.SIAS_DIAZDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
